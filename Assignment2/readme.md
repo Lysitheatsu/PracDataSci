@@ -29,5 +29,7 @@ Kernel → Restart & Run All
 
 #### Notes:
 Random state is set to 42 throughout for reproducibility
+
 The "figures/" folder is created automatically when the notebook runs to aid as a backup for the graphs
+
 The dataset file must be named exactly: Online Retail.xlsx
