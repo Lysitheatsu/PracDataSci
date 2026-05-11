@@ -1,5 +1,5 @@
 ### Assignment 2 — Online Retail Customer Segmentation
-### Made by Poppy 
+### Made by Pixy 
 
 #### Overview
 This project performs customer segmentation on the UCI Online Retail dataset using RFM (Recency, Frequency, Monetary) analysis. 
